@@ -1,0 +1,17 @@
+.item{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid none;
+    border-radius: 8px;
+    background-color: rgb(207, 216, 224);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.iamge{
+    width: 150px;
+}
