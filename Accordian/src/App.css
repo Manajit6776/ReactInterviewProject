@@ -1,0 +1,10 @@
+.section{
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.main-section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
