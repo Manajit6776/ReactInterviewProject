@@ -1,0 +1,24 @@
+.folder {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  border-radius: 5px;
+  background-color: rgb(209, 217, 224);
+  padding: 4px;
+  margin: 0 4px 4px 4px;
+  cursor: pointer;
+}
+
+.file {
+  width: 300px;
+  border-radius: 5px;
+  background-color: rgb(209, 217, 224);
+  padding: 4px;
+  margin: 0 4px 4px 4px;
+  cursor: pointer;
+}
+
+.child {
+  margin-left: 24px;
+}
